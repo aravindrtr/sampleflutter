@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>711202500136-8gkisr3u9jcsie67tp2a46qk8jqjcgpp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.711202500136-8gkisr3u9jcsie67tp2a46qk8jqjcgpp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCsuk2_9zmKL64uq1n80kPaQf8fyrKobmk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>711202500136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.augusta.ger</string>
+	<key>PROJECT_ID</key>
+	<string>sampleios-2af02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sampleios-2af02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:711202500136:ios:01788cb5265b6a45208f1d</string>
+	<key>DATABASE_URL</key>
+	<string>https://sampleios-2af02.firebaseio.com</string>
+</dict>
+</plist>
